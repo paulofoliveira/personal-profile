@@ -77,11 +77,11 @@
     `Pinal Dave — <a href="https://blog.sqlauthority.com/" target="_blank" rel="noopener">sqlauthority.com</a> (SQL Server)`,
     `Julie Lerman — <a href="https://thedatafarm.com/" target="_blank" rel="noopener">thedatafarm.com</a> (EF &amp; data)`,
     "Also: Vladimir Khorikov, Jimmy Bogard, Steven Smith, Steve Gordon, Filip Ekberg, Deborah Kurata, Shawn Wildermuth, and others.",
-    "Among Brazilian experts: Giovani Bassi; Elemar Jr.; Diego Nogare, whom I had the pleasure of having as a professor at FIAP; and Fabiano Amorim, whose Power Tuning courses on SQL Server Internals I attended. Early in my career, I closely followed Alexandre Tarifa, who worked at the Minha Vida portal. Many of these professionals are excellent references in ASP.NET, IIS, software development, and SQL Server.",
+    "Among Brazilian experts: Giovani Bassi; Elemar Jr.; Diego Nogare, whom I had the pleasure of having as a professor at FIAP; and Fabiano Amorim. Early in my career, I closely followed Alexandre Tarifa, who worked at the Minha Vida portal. Many of these professionals are excellent references in ASP.NET, IIS, software development, and SQL Server.",
     "Beyond Pluralsight",
     `Brent Ozar — <a href="https://www.brentozar.com/" target="_blank" rel="noopener">brentozar.com</a> is another SQL Server authority.`,
     "Books and additional resources",
-    "I am from the generation that learned from Microsoft's Step by Step books. I still have my copies on C# and ASP.NET development. I also enjoy Tech Leads Club, LinkedIn Learning, and PacktPub."
+    "I am from the generation that learned from Microsoft's Step by Step books. I still have my copies on C# and ASP.NET development. I also took Power Tuning courses on SQL Server Internals and enjoy Tech Leads Club, LinkedIn Learning, and PacktPub."
   ]);
 
   translateAll("#trajetoria h2, #trajetoria h3, #trajetoria p", [
