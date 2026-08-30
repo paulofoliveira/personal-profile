@@ -70,7 +70,7 @@
     "Where I started",
     "The .NET Magazine publication was part of my early journey. Its subscription even helped me land my first job.",
     "Pluralsight",
-    "A paid international platform with strong curation, featuring many MVPs and respected community experts. I consume a great deal of .NET and Microsoft content while continuing to explore other stacks. During the Data Engineering MBA I completed in 2026, I worked with Python, distributed data architecture, MongoDB, Apache Spark, Databricks, and other technologies, gaining a solid foundation for continued study.",
+    "A paid international platform with strong curation, featuring many MVPs and respected community experts. I consume a great deal of .NET and Microsoft content, but I also try to learn about other stacks and fields. More recently, thanks to the Data Engineering MBA I completed in 2026, I began exploring topics such as Python, distributed data architecture, MongoDB, Apache Spark, and Databricks, building a solid foundation for continued study.",
     "People and resources I follow",
     `Scott Allen — <a href="https://odetocode.com" target="_blank" rel="noopener">odetocode.com</a> (ASP.NET)`,
     `Paul Randal — <a href="https://www.sqlskills.com/" target="_blank" rel="noopener">sqlskills.com</a> (SQL Server)`,
