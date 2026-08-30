@@ -59,9 +59,9 @@
 
   translateAll("#sobre h2, #sobre p", [
     "About Me",
-    `Hi, I'm Paulo. Nice to meet you! I am <span id="current-age">34</span> years old, born on day 256 (September 13), which, coincidentally, is Programmer's Day. I was born in the state of São Paulo to parents from northeastern Brazil, lived in Ferraz de Vasconcelos for 32 years, and currently live in São Paulo city.`,
+    `Hi, I'm Paulo. Nice to meet you! I am <span id="current-age">34</span> years old, born on day 256 (September 13), which, coincidentally, is Programmer's Day. I was born in the state of São Paulo, lived in Ferraz de Vasconcelos for 32 years, and currently live in São Paulo city.`,
     `I have worked in software development since 2011, when I started as an IT intern. I began studying programming in 2008, and nearly my entire career has been built on the .NET platform. I completed an MBA in Corporate Solutions and Cloud Computing on the .NET Platform in 2017 and an MBA in Data Engineering in 2026, both at <a href="https://www.fiap.com.br/" target="_blank" rel="noopener">FIAP</a>. During the Data Engineering MBA, I worked with data architecture, data pipelines, and analytics solutions, building a solid foundation for further study in these areas.`,
-    `My experience has always focused on the web. I have worked with every kind of ASP.NET application (Web Forms, MVC, APIs, and SignalR), later moving to .NET Core with Blazor and SQL Server. In my current role, I maintain legacy systems. I enjoy studying performance, software architecture, and, more recently, data and AI.`
+    `My experience has always focused on the web. I have worked with every kind of ASP.NET application (Web Forms, MVC, APIs, and SignalR), later moving to .NET Core with Blazor and SQL Server. I currently work at Dimensa as a developer and technical reference for Trindade's legacy projects; I was a partner at Trindade from 2021 to 2025. In this role, I maintain legacy systems. I enjoy studying performance, software architecture, and, more recently, data and AI.`
   ]);
 
   translateAll("#estudos h2, #estudos h3, #estudos p, #estudos li", [
