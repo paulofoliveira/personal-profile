@@ -59,9 +59,9 @@
 
   translateAll("#sobre h2, #sobre p", [
     "About Me",
-    `Hi, I'm Paulo. Nice to meet you! I am <span id="current-age">34</span> years old, born on day 256 (September 13), which, coincidentally, is Programmer's Day. I was born in the state of São Paulo to parents from northeastern Brazil, lived in Ferraz de Vasconcelos for 32 years, and currently live in São Paulo city.`,
+    `Hi, I'm Paulo. Nice to meet you! I am <span id="current-age">34</span> years old, born on day 256 (September 13), which, coincidentally, is Programmer's Day. I was born in the state of São Paulo, lived in Ferraz de Vasconcelos for 32 years, and currently live in São Paulo city.`,
     `I have worked in software development since 2011, when I started as an IT intern. I began studying programming in 2008, and nearly my entire career has been built on the .NET platform. I completed an MBA in Corporate Solutions and Cloud Computing on the .NET Platform in 2017 and an MBA in Data Engineering in 2026, both at <a href="https://www.fiap.com.br/" target="_blank" rel="noopener">FIAP</a>. During the Data Engineering MBA, I worked with data architecture, data pipelines, and analytics solutions, building a solid foundation for further study in these areas.`,
-    `My experience has always focused on the web. I have worked with every kind of ASP.NET application (Web Forms, MVC, APIs, and SignalR), later moving to .NET Core with Blazor and SQL Server. In my current role, I maintain legacy systems. I enjoy studying performance, software architecture, and, more recently, data and AI.`
+    `My experience has always focused on the web. I have worked with every kind of ASP.NET application (Web Forms, MVC, APIs, and SignalR), later moving to .NET Core with Blazor and SQL Server. I currently work at Dimensa as a developer and technical reference for Trindade's legacy projects; I was a partner at Trindade from 2021 to 2025. In this role, I maintain legacy systems. I enjoy studying performance, software architecture, and, more recently, data and AI.`
   ]);
 
   translateAll("#estudos h2, #estudos h3, #estudos p, #estudos li", [
@@ -70,18 +70,17 @@
     "Where I started",
     "The .NET Magazine publication was part of my early journey. Its subscription even helped me land my first job.",
     "Pluralsight",
-    "A paid international platform with strong curation, featuring many MVPs and respected community experts. I consume a great deal of .NET and Microsoft content while continuing to explore other stacks. During the Data Engineering MBA I completed in 2026, I worked with Python, distributed data architecture, MongoDB, Apache Spark, Databricks, and other technologies, gaining a solid foundation for continued study.",
+    "A paid international platform with strong curation, featuring many MVPs and respected community experts. I consume a great deal of .NET and Microsoft content, but I also try to learn about other stacks and fields. More recently, thanks to the Data Engineering MBA I completed in 2026, I began exploring topics such as Python, distributed data architecture, MongoDB, Apache Spark, and Databricks, building a solid foundation for continued study.",
     "People and resources I follow",
     `Scott Allen — <a href="https://odetocode.com" target="_blank" rel="noopener">odetocode.com</a> (ASP.NET)`,
     `Paul Randal — <a href="https://www.sqlskills.com/" target="_blank" rel="noopener">sqlskills.com</a> (SQL Server)`,
     `Pinal Dave — <a href="https://blog.sqlauthority.com/" target="_blank" rel="noopener">sqlauthority.com</a> (SQL Server)`,
+    `Brent Ozar — <a href="https://www.brentozar.com/" target="_blank" rel="noopener">brentozar.com</a> (SQL Server)`,
     `Julie Lerman — <a href="https://thedatafarm.com/" target="_blank" rel="noopener">thedatafarm.com</a> (EF &amp; data)`,
     "Also: Vladimir Khorikov, Jimmy Bogard, Steven Smith, Steve Gordon, Filip Ekberg, Deborah Kurata, Shawn Wildermuth, and others.",
-    "Among Brazilian experts: Giovani Bassi; Elemar Jr.; Diego Nogare, whom I had the pleasure of having as a professor at FIAP; and Fabiano Amorim, whose Power Tuning courses on SQL Server Internals I attended. Early in my career, I closely followed Alexandre Tarifa, who worked at the Minha Vida portal. Many of these professionals are excellent references in ASP.NET, IIS, software development, and SQL Server.",
-    "Beyond Pluralsight",
-    `Brent Ozar — <a href="https://www.brentozar.com/" target="_blank" rel="noopener">brentozar.com</a> is another SQL Server authority.`,
+    "Among Brazilian experts: Giovani Bassi; Elemar Jr.; Diego Nogare, whom I had the pleasure of having as a professor at FIAP; and Fabiano Amorim. Early in my career, I closely followed Alexandre Tarifa, who worked at the Minha Vida portal. Many of these professionals are excellent references in ASP.NET, IIS, software development, and SQL Server.",
     "Books and additional resources",
-    "I am from the generation that learned from Microsoft's Step by Step books. I still have my copies on C# and ASP.NET development. I also enjoy Tech Leads Club, LinkedIn Learning, and PacktPub."
+    "I am from the generation that learned from Microsoft's Step by Step books. I still have my copies on C# and ASP.NET development. I also took Power Tuning courses on SQL Server Internals and enjoy Tech Leads Club, LinkedIn Learning, and PacktPub."
   ]);
 
   translateAll("#trajetoria h2, #trajetoria h3, #trajetoria p", [
